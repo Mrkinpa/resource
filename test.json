@@ -2,6 +2,6 @@
 	"code": 0,
 	"msg": "success",
 	"data": {
-		"showBlockChainContent":1
+		"show":1
 	}
 }
